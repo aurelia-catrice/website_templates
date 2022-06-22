@@ -1,0 +1,45 @@
+body{
+  margin: 0; 
+  padding: 0;
+  -webkit-text-size-adjust: 100%;
+}
+h1, h2, h3, h4, a {
+  font-family: "Playfair Display";
+}
+h1 {
+  letter-spacing: 9px;
+  font-size: calc(20px + 2.5vw);
+  opacity: 40%;
+}
+h2 {
+  letter-spacing: 9px;
+  font-size: calc(10px + 2.5vw);
+  margin-top: 1%;
+}
+h3 {
+  letter-spacing: 5px;
+  font-size: calc(10px + 1.4vw);
+  margin-top: 1%;
+}
+h4 {
+  letter-spacing: 3px;
+  font-size:calc(10px + 1.4vw);
+  margin-top: 1%;
+}
+p {
+  font-size: calc(10px + 1.2vw);
+}
+.container {
+  display: block;
+  margin: auto;
+  width: auto;
+}
+.container-margin-top {
+  margin-bottom: 3%;
+  padding-top: 55px;
+}
+.container-margin-side {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
